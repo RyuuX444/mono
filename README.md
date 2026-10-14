@@ -33,13 +33,6 @@ No classes. No build step. No dependencies. Just semantic HTML.
 
 
 
-Then import in your project:
-
-```html
-<link rel="stylesheet" href="node_modules/mono/styles.css">
-<script src="node_modules/mono/script.js"></script>
-```
-
 ### Download
 
 Grab `styles.css` and `script.js` from the repository and drop them into your project.
