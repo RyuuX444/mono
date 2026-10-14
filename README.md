@@ -30,11 +30,8 @@ No classes. No build step. No dependencies. Just semantic HTML.
 <script src="https://cdn.jsdelivr.net/gh/RyuuX444/mono@1.0.0/script.js"></script>
 ```
 
-### npm
 
-```bash
-npm install mono
-```
+
 
 Then import in your project:
 
